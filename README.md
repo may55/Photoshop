@@ -1,4 +1,3 @@
 # Photoshop
-All work by me
-
-This is my private repo to store my work in photoshop
+This is a repository, which contains some of my designing work.
+All images and fonts source is Google.
